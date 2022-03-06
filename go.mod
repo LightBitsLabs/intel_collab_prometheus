@@ -117,3 +117,5 @@ exclude (
 	k8s.io/client-go v9.0.0+incompatible
 	k8s.io/client-go v9.0.0-invalid+incompatible
 )
+
+replace github.com/prometheus/common => github.com/lightbits-intel/prometheus-common v0.32.2

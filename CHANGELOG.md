@@ -1,3 +1,6 @@
+## 2.32.2-lb1 / 2022-03-03
+* [FEATURE] remote-write: Add proxy_url to oauth2 authorization
+
 ## 2.32.1-lb1 / 2022-01-03
 * [CHANGE] remote-write: Remove remote-write snappy compression header
 
